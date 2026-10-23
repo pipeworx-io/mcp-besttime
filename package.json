@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-besttime",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "BestTime MCP — foot-traffic / venue busyness forecasts (besttime.app)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fa709f15a6e2a210b03b81c1691e8a86c43b678a084bc2b9146ab6df609d36d3",
-    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
+    "sourceHash": "v1-d8c968a99e94187380ce027ce9c0a8d6ecc52045abe67a487f56d50f07e8eedc",
+    "sourceCommit": "70a4e816a9195016cd4af92dca2019485d4c3865"
   }
 }
